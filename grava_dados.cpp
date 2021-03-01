@@ -1,9 +1,11 @@
 /*
-
-Programa em C++ que grava idades fornecidas pelo usuário em arquivo de texto.
-
-NOTA: ainda tem que corrigir a repetição do primeiro dado na listagem.
-
+Grava dados é um pequeno programa que lê dados inseridos pelo usuário e guarda num arquivo de texto. Este dados podem ser corrigidos.
+Pequeno programa que utiliza a capacidade de gravação e edição local em arquivos utilizando o C++
+*/
+/*
+* Author:  Igor Vinicius Freitas de Souza
+* GitHub: https://github.com/igor1043
+* E-mail: igorviniciusfreitasouza@gmail.com
 */
 
 
